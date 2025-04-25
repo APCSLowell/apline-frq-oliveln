@@ -4,7 +4,7 @@ public class APLine
   private int b;
   private int c;
 
-  public APLine(int a, b, c)
+  public APLine(int a, int b, int c)
   {
   this.a = a;
   this.b = b;
